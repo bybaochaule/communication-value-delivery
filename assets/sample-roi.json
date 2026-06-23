@@ -1,0 +1,9 @@
+{
+  "implementation_cost": 25000,
+  "annual_operating_cost": 12000,
+  "time_saved_minutes_per_use": 8,
+  "uses_per_month": 1500,
+  "loaded_hourly_rate": 60,
+  "annual_revenue_enabled": 0,
+  "annual_risk_or_cost_avoided": 15000
+}

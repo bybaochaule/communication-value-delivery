@@ -1,0 +1,10 @@
+metric,description,value,source_or_assumption,confidence
+implementation_cost,One-time cost to implement,,,
+annual_operating_cost,Ongoing annual cost,,,
+time_saved_minutes_per_use,Estimated minutes saved per use,,,
+uses_per_month,Expected monthly usage volume,,,
+loaded_hourly_rate,Estimated loaded hourly cost for affected users,,,
+annual_revenue_enabled,Annual revenue enabled or protected,,,
+annual_risk_or_cost_avoided,Annual avoided cost or risk value,,,
+adoption_rate,Expected percentage of target users adopting,,,
+validation_needed,What must be measured next,,,
