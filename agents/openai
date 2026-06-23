@@ -1,1 +1,16 @@
+interface:
+  display_name: "Communication Value Delivery"
+  short_description: "Communicates benefits, builds demos and use cases, explains ROI, gathers feedback, and drives trusted adoption."
+  default_prompt: "Use the communication-value-delivery skill to create stakeholder-ready value communication, demos, ROI narratives, feedback loops, and adoption plans."
 
+policy:
+  allow_implicit_invocation: true
+
+dependencies:
+  tools: []
+  files:
+    - SKILL.md
+    - README.md
+    - references/style-guide.md
+    - assets/demo-plan-template.md
+    - assets/roi-assumptions-template.csv
