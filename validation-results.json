@@ -1,0 +1,71 @@
+{
+  "skill_name": "communication-value-delivery",
+  "skill_path": "/mnt/data/.agents/skills/communication-value-delivery",
+  "passed": true,
+  "checks": [
+    {
+      "check": "required file exists: SKILL.md",
+      "passed": true
+    },
+    {
+      "check": "required file exists: README.md",
+      "passed": true
+    },
+    {
+      "check": "required file exists: agents/openai.yaml",
+      "passed": true
+    },
+    {
+      "check": "required file exists: assets/.gitkeep",
+      "passed": true
+    },
+    {
+      "check": "required file exists: references/style-guide.md",
+      "passed": true
+    },
+    {
+      "check": "required file exists: scripts/example_helper.py",
+      "passed": true
+    },
+    {
+      "check": "front matter includes name",
+      "passed": true
+    },
+    {
+      "check": "front matter includes trigger-friendly description",
+      "passed": true
+    },
+    {
+      "check": "has Purpose section",
+      "passed": true
+    },
+    {
+      "check": "has When to use section",
+      "passed": true
+    },
+    {
+      "check": "has Do not use section",
+      "passed": true
+    },
+    {
+      "check": "has Required inputs section",
+      "passed": true
+    },
+    {
+      "check": "has Workflow section",
+      "passed": true
+    },
+    {
+      "check": "has Output format section",
+      "passed": true
+    },
+    {
+      "check": "has Quality checklist section",
+      "passed": true
+    },
+    {
+      "check": "has Safety and privacy section",
+      "passed": true
+    }
+  ]
+}
